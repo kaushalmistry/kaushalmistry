@@ -29,7 +29,7 @@
 
 <!-- Conecct section -->
 
-<h2>Connect with me </h3>
+<h3>Connect with me 🤝🏻</h3>
 <p>
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 </p>
@@ -48,11 +48,11 @@ I love connecting with different people so if you want to say hi, I'll be happy 
  <!-- Conecct section: END -->
  
   <!-- GitHub section -->
-
+<!--
  ##  My Todoist Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+-->
   <!-- TODO-IST:START -->
   <!-- TODO-IST:END -->
-
 
 <!-- Profile Views -->
 
@@ -60,7 +60,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 </p>
 
 <!-- THE END -->
-
+---
 
 <!--
 **kaushalmistry/kaushalmistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
